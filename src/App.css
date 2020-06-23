@@ -42,7 +42,7 @@ h3>span{
   margin: 0px;
   padding: 0px;
 }
-span{
+label>span{
   color:red;
 }
 .transaction-list>li{
