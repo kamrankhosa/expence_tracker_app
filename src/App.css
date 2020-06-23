@@ -57,7 +57,7 @@ label>span{
 
 }
 .transaction-list>li:hover{
-  color: blue;
+  color: gray;
 }
 .transaction-form input{
   width: 100%;
